@@ -1,0 +1,44 @@
+body {
+  background-image: url(https://ilbolive.unipd.it/sites/default/files/styles/style_1120x630/public/2019-10/n_numeri3d.jpg?itok=_j-6cXMg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  height: auto;
+  width: 500px;
+  margin-left: 37%;
+  margin-top: 10%;
+}
+.display {
+  text-align: right;
+  border: inset 10px white;
+  background-color: black;
+  color: white;
+  width: 99%;
+  height: 120px;
+  font-size: 230%;
+  padding: 20px;
+}
+
+.tastiera {
+  background-color: white;
+}
+.tasto {
+  background-color: white;
+  width: 25%;
+  height: 75px;
+  font-size: 200%;
+}
+.row {
+  width: 111%;
+}
+.ultima-riga {
+  background-color: rgb(238, 243, 246);
+  width: 50%;
+}
+.simbolo {
+  background-color: rgba(252, 156, 23, 1);
+}
